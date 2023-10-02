@@ -80,7 +80,7 @@ main {
 }
 
 .container header #btn-search:hover {
-  background-color: hotpink;
+  background-color: navy;
   color: #ffffff;
   border-color: #ffffff;
 }
